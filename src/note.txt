@@ -11,3 +11,4 @@
 11:updater function
 12:update OBJECT in state
 13:update ARRAY in state
+14:update ARRAY of OBJECTS in state
