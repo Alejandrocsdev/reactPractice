@@ -10,3 +10,4 @@
 10:color picker app
 11:updater function
 12:update OBJECT in state
+13:update ARRAY in state
