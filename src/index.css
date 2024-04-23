@@ -105,3 +105,18 @@
   font-size: 1.4rem;
   margin-left: 10px;
 }
+
+.clock-container {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+}
+
+.clock {
+  color: rgb(0, 0, 0);
+  font-size: 6rem;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: center;
+}
